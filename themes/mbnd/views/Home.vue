@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    default theme bla
+    MBND theme
   </div>
 </template>
 
