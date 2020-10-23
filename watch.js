@@ -9,7 +9,7 @@ let spawnedProcess = "";
 let { theme, tenant } = process.env;
 
 if (!theme || !theme.length) {
-  theme = "brk";
+  theme = "";
 }
 
 if (!tenant || !tenant.length) {

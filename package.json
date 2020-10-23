@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "node build.js",
-    "dev": "tenant=brk node watch.js",
+    "dev": "node watch.js",
     "brk": "tenant=brk yarn build",
     "mbnd": "tenant=mbnd yarn build"
   },
